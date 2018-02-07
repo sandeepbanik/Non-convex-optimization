@@ -55,7 +55,9 @@ The test_non_APG.m contains a random system. With the objective of a lasso with 
 ## Reference 
 
 **[Proximal algorithm]** by Neal Parikh and Stephen Boyd
+
 **[Fast Gradient-Based Algorithms for Constrained Total Variation Image Denoising and Deblurring Problems]** by Amir Beck and Marc Teboulle
+
 **[Accelerated Proximal Gradient Methods for Nonconvex Programming]** by Huan Li and Zhouchen Lin
 
 [Proximal algorithm]:<https://web.stanford.edu/~boyd/papers/pdf/prox_algs.pdf>
