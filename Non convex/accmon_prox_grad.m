@@ -33,4 +33,5 @@ for i=1:max_iter
 end
 apg.x_prox = x;
 apg.p_prox = apg.prox_val(end);
+apg.time = toc;
 end

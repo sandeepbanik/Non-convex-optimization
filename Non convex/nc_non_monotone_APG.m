@@ -51,8 +51,9 @@ for i=2:max_iter-1
         break;
     end
 end
-x_opt = x(:,end);
+x_opt = x(:,i);
 apg.x_prox = x_opt;
 apg.p_prox = apg.prox_val(end);
+apg.time = toc;
 
 end
